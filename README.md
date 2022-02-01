@@ -4,19 +4,19 @@
 The goal of this project was to demonstrate how to utilize index values in VBA to simplify and quicken the analysis process that takes place in the Stocks Analysis. This will enable future in-depth research using this data source, which may be more successful with potentially bigger data sets.
 
 ### Improved Speed Upon Refactoring
- ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+ ![VBA_Challenge_2017](https://github.com/damienfranco/stocks-analysis/blob/main/resources/VBA_Challenge_2017.png)
 
 
-![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018](https://github.com/damienfranco/stocks-analysis/blob/main/resources/VBA_Challenge_2018.png)
 
 
 The results have been changed to give the same outcomes while looping through the rows only once in the process of refactoring. This has significantly speeded up the execution time of the code while maintaining similar outcomes. The refactored code is also applicable to more data because none of the columns or rows are hard-coded, as long as they exist in any given spreadsheet.
 
 ### 2017 Stock Results
-![2017 Stock Results](Resources/2017 Stock Results.png)
+![2017 Stock Results](https://github.com/damienfranco/stocks-analysis/blob/main/resources/All_Stocks_2017.png)
 
 ### 2018 Stock Results
-![2018 Stock Results](Resources/2018 Stock Results.png)
+![2018 Stock Results](https://github.com/damienfranco/stocks-analysis/blob/main/resources/All_Stocks_2018.png)
 
 The tables above demonstrate that the investments performed considerably worse in 2018 than they had in 2017. RUN, on the other hand, had a significantly higher return percentage and was the only stock to rise between the two years.
 
